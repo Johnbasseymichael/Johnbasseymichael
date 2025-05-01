@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Johnbasseymichael
-- 👀 I’m interested in web and mobile development
+- 👋 Hi, I’m John Bassey Michael
+- 👀 I’m a react developer
 - 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate with you as a teem 
 - 📫 You can reach out to me @ alvoskiny@gmail.com
